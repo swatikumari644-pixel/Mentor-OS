@@ -1,5 +1,5 @@
-import MentorDashboard from "@/src/features/mentor/pages/dashboard";
+import MentorPage from "@/src/features/mentor/page";
 
 export default function Page() {
-  return <MentorDashboard />;
+  return <MentorPage />;
 }
